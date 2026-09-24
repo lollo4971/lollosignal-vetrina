@@ -1,0 +1,1 @@
+# lollosignal-vetrina
