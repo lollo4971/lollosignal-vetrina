@@ -1,0 +1,109 @@
+club,alias_api_football,paese,competizione,fascia,coefficiente,team_id
+Paris Saint-Germain,Paris Saint Germain,FRA,UCL,1,132.000,85
+Bayern Munich,Bayern München,GER,UCL,1,147.500,157
+Real Madrid,Real Madrid,ESP,UCL,1,144.500,541
+Liverpool,Liverpool,ENG,UCL,1,130.000,40
+Inter,Inter,ITA,UCL,1,127.000,505
+Manchester City,Manchester City,ENG,UCL,1,125.500,50
+Arsenal,Arsenal,ENG,UCL,1,119.000,42
+Barcelona,Barcelona,ESP,UCL,1,113.250,529
+Atletico Madrid,Atletico Madrid,ESP,UCL,1,104.750,530
+Borussia Dortmund,Borussia Dortmund,GER,UCL,2,100.750,165
+Roma,AS Roma,ITA,UCL,2,97.750,497
+Sporting CP,Sporting CP,POR,UCL,2,84.000,228
+Aston Villa,Aston Villa,ENG,UCL,2,83.000,66
+Porto,FC Porto,POR,UCL,2,80.750,212
+Manchester United,Manchester United,ENG,UCL,2,76.500,33
+Club Brugge,Club Brugge KV,BEL,UCL,2,75.250,569
+Real Betis,Real Betis,ESP,UCL,2,74.500,543
+PSV Eindhoven,PSV Eindhoven,NED,UCL,2,71.250,197
+Feyenoord,Feyenoord,NED,UCL,3,71.000,209
+Lille,Lille,FRA,UCL,3,68.750,79
+Bodo/Glimt,Bodo/Glimt,NOR,UCL,3,64.000,327
+Napoli,Napoli,ITA,UCL,3,63.000,492
+RB Leipzig,RB Leipzig,GER,UCL,3,61.000,173
+Villarreal,Villarreal,ESP,UCL,3,59.000,533
+Fenerbahce,Fenerbahce,TUR,UCL,3,57.750,611
+Shakhtar Donetsk,Shakhtar Donetsk,UKR,UCL,3,56.250,550
+Galatasaray,Galatasaray,TUR,UCL,3,53.500,645
+Slavia Praha,Slavia Praha,CZE,UCL,4,44.000,560
+Slovan Bratislava,Slovan Bratislava,SVK,UCL,4,36.000,656
+VfB Stuttgart,VfB Stuttgart,GER,UCL,4,27.500,172
+AEK Athens,AEK Athens FC,GRE,UCL,4,24.000,575
+LASK,LASK Linz,AUT,UCL,4,21.000,1026
+Como,Como,ITA,UCL,4,19.989,895
+Lens,Lens,FRA,UCL,4,16.699,116
+Viking,Viking,NOR,UCL,4,8.247,759
+Sabah,Sabah,AZE,UCL,4,6.000,13976
+Bayer Leverkusen,Bayer Leverkusen,GER,UEL,1,105.000,168
+Benfica,Benfica,POR,UEL,1,90.000,211
+Juventus,Juventus,ITA,UEL,1,72.250,496
+Milan,AC Milan,ITA,UEL,1,66.000,489
+Lyon,Lyon,FRA,UEL,1,65.750,80
+AZ Alkmaar,AZ Alkmaar,NED,UEL,1,62.875,201
+Olympiacos,Olympiakos Piraeus,GRE,UEL,1,62.250,553
+Real Sociedad,Real Sociedad,ESP,UEL,1,57.000,548
+Marseille,Marseille,FRA,UEL,1,54.000,81
+Ferencvaros,Ferencvarosi TC,HUN,UEL,2,51.250,651
+Viktoria Plzen,Plzen,CZE,UEL,2,50.500,567
+Union Saint-Gilloise,Union St. Gilloise,BEL,UEL,2,48.000,1393
+Dinamo Zagreb,Dinamo Zagreb,CRO,UEL,2,46.500,620
+Red Bull Salzburg,Red Bull Salzburg,AUT,UEL,2,45.000,571
+Celtic,Celtic,SCO,UEL,2,44.000,247
+Sparta Praha,Sparta Praha,CZE,UEL,2,38.250,628
+Rennes,Rennes,FRA,UEL,2,35.000,94
+Anderlecht,Anderlecht,BEL,UEL,2,30.750,554
+Sturm Graz,Sturm Graz,AUT,UEL,3,28.000,637
+Lech Poznan,Lech Poznan,POL,UEL,3,27.250,347
+Crystal Palace,Crystal Palace,ENG,UEL,3,23.903,52
+Bournemouth,Bournemouth,ENG,UEL,3,23.903,35
+Sunderland,Sunderland,ENG,UEL,3,23.903,746
+Celje,Celje,SVN,UEL,3,23.000,4360
+Jagiellonia Bialystok,Jagiellonia,POL,UEL,3,22.000,336
+Omonia Nicosia,Omonia Nicosia,CYP,UEL,3,21.250,3402
+Celta Vigo,Celta Vigo,ESP,UEL,3,19.409,538
+TSG Hoffenheim,1899 Hoffenheim,GER,UEL,4,18.580,167
+Besiktas,Besiktas,TUR,UEL,4,15.500,549
+Torreense,Torreense,POR,UEL,4,14.633,4799
+Hapoel Beer Sheva,Hapoel Beer Sheva,ISR,UEL,4,14.000,563
+NEC Nijmegen,NEC Nijmegen,NED,UEL,4,13.585,413
+OFI Crete,OFI,GRE,UEL,4,9.682,1124
+Lillestrom,Lillestrom,NOR,UEL,4,8.247,321
+Levski Sofia,Levski Sofia,BUL,UEL,4,7.000,646
+Ararat-Armenia,Ararat-Armenia,ARM,UEL,4,7.000,3683
+Atalanta,Atalanta,ITA,UECL,1,84.000,499
+Braga,Braga,POR,UECL,1,63.750,217
+Ajax,Ajax,NED,UECL,1,58.250,194
+SC Freiburg,SC Freiburg,GER,UECL,1,56.500,160
+Monaco,Monaco,FRA,UECL,1,56.000,91
+Copenhagen,FC Copenhagen,DEN,UECL,1,54.375,400
+Midtjylland,FC Midtjylland,DEN,UECL,2,48.250,397
+Crvena Zvezda,FK Crvena Zvezda,SRB,UECL,2,46.500,598
+Gent,KAA Gent,BEL,UECL,2,39.000,631
+Panathinaikos,Panathinaikos,GRE,UECL,2,29.250,617
+Pafos,Pafos,CYP,UECL,2,24.125,3403
+Brighton,Brighton,ENG,UECL,2,23.903,51
+Lugano,Lugano,SUI,UECL,3,21.250,606
+Getafe,Getafe,ESP,UECL,3,19.409,546
+KuPS Kuopio,KuPS,FIN,UECL,3,14.000,1165
+Twente,Twente,NED,UECL,3,13.585,415
+Lincoln Red Imps,Lincoln Red Imps,GIB,UECL,3,13.500,667
+Borac Banja Luka,Borac Banja Luka,BIH,UECL,3,13.125,3364
+Sint-Truiden,St. Truiden,BEL,UECL,4,12.450,735
+Brann,Brann,NOR,UECL,4,12.250,319
+Hearts,Heart Of Midlothian,SCO,UECL,4,11.500,254
+Kairat Almaty,Kairat Almaty,KAZ,UECL,4,11.000,664
+Trabzonspor,Trabzonspor,TUR,UECL,4,11.000,998
+Universitatea Craiova,Universitatea Craiova,ROU,UECL,4,10.500,632
+Riga FC,Riga,LVA,UECL,5,10.500,10124
+Hajduk Split,Hajduk Split,CRO,UECL,5,10.000,608
+Jablonec,Jablonec,CZE,UECL,5,9.705,1122
+Nordsjaelland,FC Nordsjaelland,DEN,UECL,5,8.421,398
+AGF Aarhus,Aarhus,DEN,UECL,5,8.421,406
+Inter Club d'Escaldes,Inter Club d'Escaldes,AND,UECL,5,7.500,3342
+Thun,Thun,SUI,UECL,6,6.940,1012
+CSKA Sofia,CSKA Sofia,BUL,UECL,6,6.500,853
+Kauno Zalgiris,Kauno Zalgiris,LTU,UECL,6,6.000,3872
+Mjallby,Mjallby AIF,SWE,UECL,6,5.925,2240
+Iberia 1999,Iberia 1999,GEO,UECL,6,5.000,3502
+Egnatia,Egnatia,ALB,UECL,6,4.500,3327
